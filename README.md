@@ -12,7 +12,7 @@
   - **4-digit PIN**
 - This ensures secure access to your financial data.
 
-![Register View Screenshot](Screenshots/1.png)
+<img src="Screenshots/1.png" alt="Register View Screenshot" width="600">
 
 ---
 
@@ -22,7 +22,7 @@
   - **PIN**
 - Validates user credentials before granting access to the dashboard.
 
-![Sign In View Screenshot](Screenshots/2.png)
+<img src="Screenshots/2.png" alt="Signin View Screenshot" width="600">
 
 ---
 
@@ -32,7 +32,7 @@
   - **Total Income and Expenses for the Current Month**.
   - **Transaction Log**: Displays income and expense entries for the current month, sorted by date.
 
-![Dashboard Screenshot](Screenshots/3.png)
+<img src="Screenshots/3.png" alt="Dashboard View Screenshot" width="600">
 
 ---
 
@@ -40,7 +40,7 @@
 - Add income or expense entries directly from the dashboard.
 - Specify details like name, amount, type, and date.
 
-![Add New Item Screenshot](Screenshots/6.png)
+<img src="Screenshots/6.png" alt="Add New Item View Screenshot" width="600">
 
 ---
 
@@ -49,7 +49,7 @@
 - Categorize income by type (e.g., Salary, Business, Investment).
 - Income entries are displayed in a sorted table by date.
 
-![Income Management Screenshot](Screenshots/4.png)
+<img src="Screenshots/4.png" alt="Income View Screenshot" width="600">
 
 ---
 
@@ -58,7 +58,8 @@
 - Categorize expenses by type (e.g., Food, Transport, Health).
 - Expense entries are displayed in a sorted table by date.
 
-![Expense Management Screenshot](screenshots/5.png)
+<img src="Screenshots/5.png" alt="Expense View Screenshot" width="600">
+
 
 ---
 
@@ -67,7 +68,7 @@
 - View the total cost of all shopping items.
 - Add and remove items from the list.
 
-![Shopping List Screenshot](Screenshots/7.png)
+<img src="Screenshots/7.png" alt="Shopping View Screenshot" width="600">
 
 ---
 
