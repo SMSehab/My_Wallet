@@ -1,0 +1,23 @@
+Part-Time Job,8000,2024-12-01,Other
+Consulting,20000,2024-11-25,Business
+Royalty,10000,2024-11-20,Investment
+Rent Income,5000,2024-11-15,Other
+Teaching,15000,2024-11-10,Business
+Stock Sale,20000,2024-11-05,Investment
+Commission,8000,2024-10-30,Business
+Refund,3000,2024-10-25,Other
+Incentives,7000,2024-10-20,Other
+Office,25000,2024-10-15,Salary
+Freelance,12000,2024-10-10,Business
+Scholarship,20000,2024-10-05,Gift
+Workshop,5000,2024-10-01,Business
+Gift,2000,2024-09-30,Gift
+Dividend,8000,2024-09-25,Investment
+Refund,4000,2024-09-20,Other
+Rent Income,5000,2024-09-15,Other
+Side Hustle,15000,2024-09-10,Business
+Cash Prize,10000,2024-09-05,Gift
+Stock Dividend,6000,2024-09-01,Investment
+Consulting Fee,25000,2024-08-25,Business
+Salary,20000,2025-01-01,Salary
+tergg,2222,2025-01-01,Salary

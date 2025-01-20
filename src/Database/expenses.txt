@@ -1,0 +1,45 @@
+Burger,200,2025-01-15,Food
+Taxi Ride,50,2025-01-12,Transport
+Movie Ticket,500,2025-01-10,Entertainment
+Gym Membership,2000,2025-01-14,Health
+Coffee,100,2025-01-16,Food
+Grocery,3000,2025-01-09,Food
+Lunch,450,2025-01-13,Food
+Bus Fare,30,2025-01-08,Transport
+Internet Bill,1200,2025-01-11,Other
+Snacks,250,2025-01-07,Food
+Office Supplies,600,2025-01-06,Other
+Concert Ticket,2000,2025-01-05,Entertainment
+Workshop Fee,3000,2025-01-04,Education
+Fuel,1500,2025-01-03,Transport
+Dinner,1000,2025-01-02,Food
+Grocery,2500,2025-01-01,Food
+Subscription,500,2025-01-14,Other
+Taxi Fare,60,2025-01-13,Transport
+Laundry,300,2025-01-12,Other
+Breakfast,200,2025-01-11,Food
+Train Ticket,100,2024-12-08,Transport
+Snacks,200,2024-12-05,Food
+Phone Bill,800,2024-12-02,Other
+Fitness Class,1500,2024-11-30,Health
+Workshop Materials,700,2024-11-25,Education
+Parking Fee,50,2024-11-20,Transport
+Energy Drink,100,2024-11-18,Food
+Mobile Accessories,1200,2024-11-15,Other
+Child Tuition Fee,5000,2024-11-10,Education
+Lunch,600,2024-11-07,Food
+Transportation,800,2024-11-05,Transport
+Magazine Subscription,400,2024-10-30,Other
+Water Bill,600,2024-10-25,Other
+Household Repairs,4000,2024-10-20,Other
+Charity Donation,2000,2024-10-15,Other
+Dinner Out,1500,2024-10-10,Food
+Weekly Groceries,3500,2024-10-08,Food
+Books,800,2024-10-05,Education
+Gym Clothes,1500,2024-10-03,Other
+Stationery,300,2024-10-01,Other
+Electric Bill,2500,2024-09-28,Other
+Travel,20000,2024-09-25,Transport
+Bike Maintenance,3000,2024-09-20,Other
+Birthday Gift,2500,2024-09-15,Other
+Garden Tools,1200,2024-09-10,Other

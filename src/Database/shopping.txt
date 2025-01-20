@@ -1,0 +1,20 @@
+Milk,50
+Bread,30
+Eggs,120
+Shampoo,200
+Toothpaste,150
+Soap,50
+Detergent,300
+Rice,1000
+Lentils,800
+Cooking Oil,1500
+Salt,20
+Sugar,300
+Tea,500
+Biscuits,100
+Snacks,200
+Fruits,800
+Vegetables,600
+Chicken,500
+Fish,700
+Ice Cream,150
