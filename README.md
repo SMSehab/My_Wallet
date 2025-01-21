@@ -72,7 +72,23 @@
 
 ---
 
-## How to Run
+## **Prerequisites**
+- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) 
+- [Eclipse IDE](https://www.eclipse.org/downloads/) (or any Java-supported IDE)
+- [Git](https://git-scm.com/downloads)
+
+## **How to Run**
 1. Clone the repository:
    ```bash
    git clone https://github.com/SMSehab/MyWallet.git
+   cd MyWallet
+   ```
+
+2. Import into Eclipse:
+   - Open Eclipse and go to `File > Import`.
+   - Select `Existing Projects into Workspace` and choose the cloned folder.
+   - Click `Finish`.
+
+3. Run the project:
+   - Right-click the project in Eclipse.
+   - Select `Run As > Java Application`.
